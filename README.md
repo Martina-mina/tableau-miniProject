@@ -54,3 +54,14 @@ An end-to-end executive analytical portfolio designed in Tableau to evaluate glo
 * **BI Tool:** Tableau Desktop / Tableau Public
 * **Data Manipulation:** Data Type Conversions, Custom Aggregations, Grouping & Quadrant Categorisation
 * **Design & UX:** Custom Palette Coding, Native Object Layouts, Text Sheet Executive Summary Cards
+## 📸 Dashboard Preview
+
+### 1. Economy & Wealth
+![Economy Dashboard](<img width="1919" height="1079" alt="dash1" src="https://github.com/user-attachments/assets/4f547019-edc9-4f02-ab38-7ad6f78ab3d0" />
+)
+
+### 2. Quality of Life & Demographics
+![Quality of Life Dashboard](dash2.png)
+
+### 3. Infrastructure & Digital Readiness
+![Infrastructure Dashboard](dash3.png)
