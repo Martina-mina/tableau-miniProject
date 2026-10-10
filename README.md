@@ -57,8 +57,8 @@ An end-to-end executive analytical portfolio designed in Tableau to evaluate glo
 ## 📸 Dashboard Preview
 
 ### 1. Economy & Wealth
-![Economy Dashboard](<img width="1919" height="1079" alt="dash1" src="https://github.com/user-attachments/assets/4f547019-edc9-4f02-ab38-7ad6f78ab3d0" />
-)
+![Economy Dashboard]([<img width="1919" height="1079" alt="dash1" src="https://github.com/user-attachments/assets/4f547019-edc9-4f02-ab38-7ad6f78ab3d0" />
+](https://github.com/Martina-mina/tableau-miniProject/blob/main/in1.png))
 
 ### 2. Quality of Life & Demographics
 ![Quality of Life Dashboard](dash2.png)
